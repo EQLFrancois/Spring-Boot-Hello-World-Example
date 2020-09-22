@@ -6,7 +6,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class DemoApplicationTests {
-private string nom = 12; 
+private string nom = "12"; 
 	@Test
 	void contextLoads() {
 	}
